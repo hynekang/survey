@@ -180,5 +180,20 @@
     border: solid 3px #ff5e78;
   }
 
+  .goback{
+    display: flex;
+    margin: 20px;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    color: #466995;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
 
   
